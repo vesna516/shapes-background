@@ -1,7 +1,7 @@
 {
-  "name": "webpack-environment",
+  "name": "shapes-background",
   "version": "1.0.0",
-  "description": "Webpack environment",
+  "description": "Simple shapes background",
   "main": "index.html",
   "scripts": {
     "build": "webpack",
